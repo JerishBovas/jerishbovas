@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jerishbradly
+- 👋 Hi, I’m @jerishbovas
 - 👀 I’m interested in Web Application and Game Development
-- 🌱 I’m currently learning C#, Python, Java
+- 🌱 I’m experienced in C++, C#, Python, Java, Javascript
 - 💞️ I’m looking to collaborate on Application and Game Development
 - 📫 You can reach me at jerishbradlyb@gmail.com
