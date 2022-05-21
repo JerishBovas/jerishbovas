@@ -4,4 +4,4 @@
 - 🏆 I've used and build web applications using .NET, React, Angular, Spring Boot, Node.js, Express.js
 - 🏆 I'm experienced in building mobile apps with frameworks like React Native, Ionic, iOS, Android, Xamarin
 - 💞️ I’m looking to collaborate on Web and Mobile Application Development
-- 📫 You can reach me at jerishbradlyb@gmail.com
+- 📫 You can reach me at jerishbradlyjb@gmail.com
